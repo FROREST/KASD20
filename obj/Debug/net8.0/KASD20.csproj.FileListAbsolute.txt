@@ -1,0 +1,14 @@
+/Users/liga/Desktop/Учебники/Задачи KASD/KASD20/KASD20/bin/Debug/net8.0/KASD20
+/Users/liga/Desktop/Учебники/Задачи KASD/KASD20/KASD20/bin/Debug/net8.0/KASD20.deps.json
+/Users/liga/Desktop/Учебники/Задачи KASD/KASD20/KASD20/bin/Debug/net8.0/KASD20.runtimeconfig.json
+/Users/liga/Desktop/Учебники/Задачи KASD/KASD20/KASD20/bin/Debug/net8.0/KASD20.dll
+/Users/liga/Desktop/Учебники/Задачи KASD/KASD20/KASD20/bin/Debug/net8.0/KASD20.pdb
+/Users/liga/Desktop/Учебники/Задачи KASD/KASD20/KASD20/obj/Debug/net8.0/KASD20.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liga/Desktop/Учебники/Задачи KASD/KASD20/KASD20/obj/Debug/net8.0/KASD20.AssemblyInfoInputs.cache
+/Users/liga/Desktop/Учебники/Задачи KASD/KASD20/KASD20/obj/Debug/net8.0/KASD20.AssemblyInfo.cs
+/Users/liga/Desktop/Учебники/Задачи KASD/KASD20/KASD20/obj/Debug/net8.0/KASD20.csproj.CoreCompileInputs.cache
+/Users/liga/Desktop/Учебники/Задачи KASD/KASD20/KASD20/obj/Debug/net8.0/KASD20.dll
+/Users/liga/Desktop/Учебники/Задачи KASD/KASD20/KASD20/obj/Debug/net8.0/refint/KASD20.dll
+/Users/liga/Desktop/Учебники/Задачи KASD/KASD20/KASD20/obj/Debug/net8.0/KASD20.pdb
+/Users/liga/Desktop/Учебники/Задачи KASD/KASD20/KASD20/obj/Debug/net8.0/KASD20.genruntimeconfig.cache
+/Users/liga/Desktop/Учебники/Задачи KASD/KASD20/KASD20/obj/Debug/net8.0/ref/KASD20.dll

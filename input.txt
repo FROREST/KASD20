@@ -1,0 +1,6 @@
+int x = 10;
+float y = 20;
+double z = 30;
+int x = 50;
+char a = 1;
+string d = gbljh;
